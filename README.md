@@ -282,6 +282,7 @@ $ inline-equation $
 ```
 
 Use: [Equation to Latex](https://www.tutorialspoint.com/latex_equation_editor.htm)
+Use: [Latex Cheatsheet](https://c-tan.com/download/latex_math_cheatsheet_2018-01-13.pdf)
 
 <details>
 <summary><b>Example</b></summary>
@@ -295,6 +296,7 @@ $$ block-equation $$
 ```
 
 Use: [Equation to Latex](https://www.tutorialspoint.com/latex_equation_editor.htm)
+Use: [Latex Cheatsheet](https://c-tan.com/download/latex_math_cheatsheet_2018-01-13.pdf)
 
 <details>
 <summary><b>Example</b></summary>
