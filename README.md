@@ -255,6 +255,8 @@ Note: Each \* represents a space in keyboard
 `inline-code`
 ```
 
+Note: It uses a symbol called back quote (`). You can see the back quote symbol in your keyboard [here](images/back-quote.jpg).
+
 <details>
 <summary><b>Example</b></summary>
 <img src="images/code-inline.png" alt="Code Inline sample">
