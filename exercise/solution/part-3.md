@@ -9,4 +9,5 @@ By:
 [Edmund Joey S. Jusayan](mailto:ejsjusayan@usep.edu.ph)  
 [Matthew Gabriel B. Silvosa](mailto:mgbsilvosa@usep.edu.ph)  
 [Nikko L. Maniwang](mailto:nlmaniwang@usep.edu.ph)  
-[Rovic Jade P. Rivas](mailto:rjprivas@usep.edu.ph)
+[Rovic Jade P. Rivas](mailto:rjprivas@usep.edu.ph)  
+[Angel Grace Arapoc](mailto:wangelgwace@gmail.com)
