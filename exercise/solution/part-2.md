@@ -4,7 +4,7 @@
 > There should be no extra spacing between each line.  
 > _**This line is both italic and bold!**_
 >
-> There is a <b>blank</b> space above.  
+> There is a blank space above.  
 > This <sub>line</sub> of <sup>text</sup> is <sub>wavy.</sub>
 
 My favorite equation is:
