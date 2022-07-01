@@ -75,5 +75,5 @@ Useful options:
    ![mac-linux_2.png](/images%20for%20exercise/Part-1/mac-linux_2.png)
 
 4. You should now be inside the HPC frontend.  
-    ![mac-linux_3.png](/images%20for%20exercise/Part-1/mac-linux_3.png)
+    ![mac-linux_3.png](/images%20for%20exercise/Part-1/mac-linux_3.png)  
    NOTE: Logging in must be passwordless unless you have a passphrase during the generating of keys.
