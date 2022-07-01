@@ -45,7 +45,7 @@ ssh <username>@saliksik.asti.dost.gov.ph
 
 Useful options:
 |Flag |Description |
-| -------- | -------- |
+|:--- |:--- |
 | -i <private-keys> | Indicate the private key to be used |
 |-v | Increase verbosity |
 | -vv, -vvv | Enable additional verbosity for even more debugging messages |
@@ -66,7 +66,7 @@ ssh <username>@saliksik.asti.dost.gov.ph
 
 Useful options:
 |Flag |Description|
-| -------- | -------- |
+|:--- |:--- |
 | -i <private-keys> | Indicate the private key to be used |
 |-v | Increase verbosity |
 | -vv, -vvv | Enable additional verbosity for even more debugging messages |
