@@ -4,12 +4,12 @@ The following are procedures for logging in to the COARE HPC via the following O
 
 ## **Table of contents**
 
-## **For Windows**
-
 - [For Windows](#for-windows)
   - [PuTTY](#putty)
   - [Command Prompt (for Windows 10 only)](#command-prompt-for-windows-10-only)
 - [For Mac/Linux](#for-mac--linux)
+
+## **For Windows**
 
 For Windows, users have two options to use in logging in: PuTTY or Command Prompt.
 
@@ -44,7 +44,7 @@ ssh <username>@saliksik.asti.dost.gov.ph
 ```
 
 Useful options:
-| | |
+|Flag |Description |
 | -------- | -------- |
 | -i <private-keys> | Indicate the private key to be used |
 |-v | Increase verbosity |
