@@ -4,14 +4,14 @@ The following are procedures for logging in to the COARE HPC via the following O
 
 ## Table of Contents
 
-- [For Windows]()
-  - [PuTTy]()
-  - [Command Prompt (for Windows 10 only)]()
-- [For Mac / Linux]()
+- [For Windows](#for-windows)
+  - [PuTTY](#putty)
+  - [Command Prompt (for Windows 10 only)](#command-prompt-for-windows-10-only)
+- [For Mac / Linux](#for-maclinux)
 
 ## For Windows
 
-### PuTTy
+### PuTTY
 
 1. Download and run PuTTY application.
 
