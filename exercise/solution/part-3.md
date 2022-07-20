@@ -1,8 +1,11 @@
 # Exercises
 
-- [x] Part 1 - [Solution](part-1.md)
-- [x] Part 2 - [Solution](part-2.md)
-- [x] Part 3 - [Solution](part-3.md)
+- [x] Part 1 - [Solutions](part-1.md)
+- [x] Part 2 - [Solutions](part-2.md)
+- [x] Part 3 - [Solutions](part-3.md)
 
-By:
-[Imari Joy C. Borda](mailto:imari.borda2018@gmail.com)
+By:   
+[Jucille Kate Delos Santos](mailto:jucille.delossantos@smc.pshs.edu.ph)  
+[Randy Hibaya](mailto:rhibaya@zrc.pshs.edu.ph)  
+[Beige Bernadette Bastasa](mailto:bbbastasa@zrc.pshs.edu.ph)  
+[Celine Joie del Pilar](mailto:cdel@zrc.pshs.edu.ph)
