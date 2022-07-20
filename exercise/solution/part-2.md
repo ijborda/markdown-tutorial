@@ -8,6 +8,5 @@
 > This <sub>line</sub> of <sup>text</sup> is <sub>wavy</sub>.
 
 My favorite equation is:
-$$
-\frac{-b \pm\sqrt{b^2-4ac}}{2a}
-$$
+
+$$ \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
